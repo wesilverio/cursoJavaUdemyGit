@@ -7,6 +7,6 @@ public class CursoJavaUdemyFx106 {
         // TODO code application logic here
         System.out.println("BOM DIA!");
         System.out.println("BOM TARDE!");
+        System.out.println("BOA NOITE!");
     }
-    
 }
